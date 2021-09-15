@@ -14,5 +14,5 @@ function find_total( my_numbers ) {
        } 
        console.log(total);
 }
-var numbers = new Array(17,19,21);
+var numbers = new Array(8,19,21);
 find_total( numbers );
